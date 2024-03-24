@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yugesh Reganti</h1>
-<p align="left">A problem-solving enthusiast and Java programmer, and I welcome you to my github portfolio! As a passionate problem solver and Java programming enthusiast, I bring a wealth of knowledge and experience to the table. With a Master of Science degree in Computer Information Systems from New England College, I have a strong academic foundation. My professional journey at DBS Tech and Edgeverve Systems has further strengthened my problem-solving abilities and expertise in Java programming. Through my academic and personal projects, such as teaching Java programming and implementing cryptographic algorithms, I have consistently demonstrated my dedication to finding innovative solutions. I am eager to leverage my skills and experience to overcome challenges and contribute to the world of computer science.</p>
+<p align="left">Bringing over five years of dedicated experience in web application development, my journey has been marked by a deep commitment to engineering excellence, primarily using Java and Spring Boot. My expertise lies in architecting event-driven, microservices, and monolithic systems, predominantly for fintech solutions. This focus has equipped me with a profound understanding of banking systems and applications, enhancing my problem-solving skills and domain knowledge.
+
+My enthusiasm for technology extends beyond development; I have a keen interest in high-level system design, where I enjoy the challenges of creating scalable and resilient architectures. Coupled with a strong foundation in data structures and algorithms, I constantly seek out complex problems to refine my analytical and design capabilities.
+
+Recently, I broadened my technical horizon by earning the AWS Developer Associate certification, affirming my interest in cloud technologies. My tech stack is comprehensive, including Java, Spring, MySQL, Elasticsearch, AWS, Kafka, MongoDB, Node.js, and React.js. This diversity enables me to craft solutions that are not only effective but also innovative and forward-thinking.
+
+Beyond my core development work, I have a growing interest in Data Analysis and Machine Learning. I have embarked on several projects in these areas, applying data-driven approaches to solve real-world problems.
+
+I am passionate about learning and mastering new technologies, always driven by the desire to understand and design complex systems. Let's connect and discover how we can collaborate on future projects, pushing the boundaries of what's possible.</p>
 <img src="https://github.com/yr5913/yr5913/blob/main/images/coding.gif" alt="Coding" align="right" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yr5913&label=Profile%20views&color=brightgreen&style=flat" alt="yr5913" /> </p>
 
 - 📄 My Resume [https://drive.google.com/file/d/1t5uDhCVVqh3--Xrx5Rqyg5WUL2hdtuK2/view?usp=sharing](https://drive.google.com/file/d/1t5uDhCVVqh3--Xrx5Rqyg5WUL2hdtuK2/view?usp=sharing)
